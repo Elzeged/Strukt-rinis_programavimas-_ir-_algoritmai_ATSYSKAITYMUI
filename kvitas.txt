@@ -1,7 +1,7 @@
 SASKAITA
-3 Kiaulienos_sonine_su_keptu_kiausiniu 7.35 EUR
-2 Prancuziskas_skrebutis               3.98 EUR
-4 Pusryciu_dribsniai                   2.76 EUR
+1 Keksiukas_su_vysnia                  0.99 EUR
+4 Kiaulienos_sonine_su_keptu_kiausiniu 9.80 EUR
+1 Vaisiu_salotos                       2.49 EUR
 
-Mokesčiai (21%) 2.96 EUR
- Galutinė suma 17.05 EUR
+Mokesčiai (21%) 2.79 EUR
+ Galutinė suma 16.07 EUR
